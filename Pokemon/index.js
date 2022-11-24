@@ -177,7 +177,6 @@ function animate() {
         }
     }
 
-
 }
 
 const keys = {
